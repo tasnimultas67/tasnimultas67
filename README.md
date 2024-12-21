@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Tasnimul Haque and I’m a passionate developer and student from Dhaka, Bangladesh. I love creating amazing websites that are responsive, fast, and user-friendly. 
+I'm Tasnimul Haque, a passionate and creative web developer hailing from Bangladesh. I thrive on crafting dynamic and interactive web experiences that not only look stunning but also deliver seamless user interactions. My journey in web development has been fueled by a deep love for coding and a relentless pursuit of innovation.
 
-I’m skilled in HTML, CSS, JavaScript, React, Tailwind, WordPress, and other web technologies and frameworks. I have 4+ years of web development experience and I have designed many beautiful websites. 
+I am always on the lookout for new challenges and opportunities to hone my skills. My portfolio boasts a variety of projects, from a meticulously designed portfolio website to an intricate animated star rating system. I'm particularly proud of my work on an e-commerce website, which showcases my ability to create functional and engaging platforms that cater to users' needs.
 
-I have worked for many reputed organizations and I’m always eager to learn new skills and take on new challenges. I’m a quick learner and a problem solver, and I always strive to deliver high-quality work.
+Beyond coding, I'm an avid gamer who loves diving into immersive worlds and exploring new game mechanics. When I'm not glued to my screen, you can find me staying active and enjoying the great outdoors, balancing my digital life with physical activities.
+
+In essence, I'm a driven developer with a knack for turning ideas into reality, always eager to learn, grow, and contribute to the tech community. Let's connect and create something amazing together!
 
